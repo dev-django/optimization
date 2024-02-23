@@ -1,0 +1,9 @@
+################ Django ##################
+Django==5.0.2
+djangorestframework==3.14.0
+django-debug-toolbar==4.3.0
+
+
+
+############## DATABASE ##############
+mysqlclient==2.2.4
